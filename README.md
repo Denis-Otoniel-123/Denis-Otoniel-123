@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">Hola 👋  soy Denis ✨ </h1> 
 
-<!--
-**Denis-Otoniel-123/Denis-Otoniel-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+<a href="https://www.facebook.com/denis.morales.7127" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="unsimpledev"  /></a>
+<a href = "mailto:unsimpledev@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@Denis-Otoniel-123"  /></a>
+  </p>
+<br>
+<h2>Sobre mi 😃</h2>
+<!--Intro start-->
 
-Here are some ideas to get you started:
+<p align="left">
+🎓 INGENIERO EN INFORMÁTICA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:point_right: Productividad Personal
+
+💻 unos cuántos años de experiencia en el proceso de desarrollo de software a nivel personal
+
+📝 roles en el ámbito: desarrollador... líder... Analista de datos... Creatividad... programador Web... y en un futuro quién sabe ☺️
+
+📫 Contacto: **denisotoniel77@gmail.com**
+<!--Intro end-->
+  </p>
+<br>
+
+<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,cpp,java,php,css,html,nodejs,mysql,git,github,eclipse,vscode,bash,linux,ai,ps&perline=12" />
+  </a>
+</p>
+<br>
+<!-------------------------->
+<div id="proyectos">
+
+
+
+<!--- trophy (start) -->
+
+
+</p>        
+<!--- stats (end) -->
