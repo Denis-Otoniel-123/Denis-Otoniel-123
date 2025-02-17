@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋  soy Denis ✨ </h1> 
 
 <p align="left">
-<a href="https://www.facebook.com/denis.morales.7127" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="unsimpledev"  /></a>
+
 <a href = "mailto:unsimpledev@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@Denis-Otoniel-123"  /></a>
   </p>
 <br>
